@@ -1,2 +1,0 @@
-rumahdot.github.com
-===================
